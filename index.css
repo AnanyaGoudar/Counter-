@@ -1,0 +1,53 @@
+body {
+    background-image: url("wolf.jpeg");
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    border-top-width: 100%;
+    color: #00C853;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #B71C1C;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+#increment-btn {
+    background: #6200EA;
+    color:aqua;
+}
+
+#save-btn {
+    background: #AA00FF;
+    color:aqua;
+}
+
+.container{
+    width :50%;
+    padding-top: 15%;
+    padding-left: 25%;
+}
+
+#save-el{
+    font-weight: bold;
+}
